@@ -1,0 +1,14 @@
+N:\BUG TRACKING\bug-tracking-system\backend\services\bug-service\src\main\java\com\bugsprint\bug\controller\BugController.java
+N:\BUG TRACKING\bug-tracking-system\backend\services\bug-service\src\main\java\com\bugsprint\bug\client\ProjectClient.java
+N:\BUG TRACKING\bug-tracking-system\backend\services\bug-service\src\main\java\com\bugsprint\bug\entity\Comment.java
+N:\BUG TRACKING\bug-tracking-system\backend\services\bug-service\src\main\java\com\bugsprint\bug\entity\Priority.java
+N:\BUG TRACKING\bug-tracking-system\backend\services\bug-service\src\main\java\com\bugsprint\bug\client\AiClient.java
+N:\BUG TRACKING\bug-tracking-system\backend\services\bug-service\src\main\java\com\bugsprint\bug\client\NotificationClient.java
+N:\BUG TRACKING\bug-tracking-system\backend\services\bug-service\src\main\java\com\bugsprint\bug\repository\BugRepository.java
+N:\BUG TRACKING\bug-tracking-system\backend\services\bug-service\src\main\java\com\bugsprint\bug\BugServiceApplication.java
+N:\BUG TRACKING\bug-tracking-system\backend\services\bug-service\src\main\java\com\bugsprint\bug\entity\Status.java
+N:\BUG TRACKING\bug-tracking-system\backend\services\bug-service\src\main\java\com\bugsprint\bug\service\BugService.java
+N:\BUG TRACKING\bug-tracking-system\backend\services\bug-service\src\main\java\com\bugsprint\bug\repository\CommentRepository.java
+N:\BUG TRACKING\bug-tracking-system\backend\services\bug-service\src\main\java\com\bugsprint\bug\controller\CommentController.java
+N:\BUG TRACKING\bug-tracking-system\backend\services\bug-service\src\main\java\com\bugsprint\bug\config\DataInitializer.java
+N:\BUG TRACKING\bug-tracking-system\backend\services\bug-service\src\main\java\com\bugsprint\bug\entity\Bug.java

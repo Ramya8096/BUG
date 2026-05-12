@@ -1,0 +1,16 @@
+com\bugsprint\bug\controller\CommentController.class
+com\bugsprint\bug\entity\Bug.class
+com\bugsprint\bug\repository\BugRepository.class
+com\bugsprint\bug\BugServiceApplication.class
+com\bugsprint\bug\entity\Comment$CommentBuilder.class
+com\bugsprint\bug\entity\Status.class
+com\bugsprint\bug\entity\Priority.class
+com\bugsprint\bug\entity\Bug$BugBuilder.class
+com\bugsprint\bug\client\ProjectClient.class
+com\bugsprint\bug\client\NotificationClient.class
+com\bugsprint\bug\entity\Comment.class
+com\bugsprint\bug\config\DataInitializer.class
+com\bugsprint\bug\controller\BugController.class
+com\bugsprint\bug\repository\CommentRepository.class
+com\bugsprint\bug\client\AiClient.class
+com\bugsprint\bug\service\BugService.class

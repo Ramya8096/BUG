@@ -1,0 +1,6 @@
+com\bugsprint\ai\entity\AiLog.class
+com\bugsprint\ai\repository\AiLogRepository.class
+com\bugsprint\ai\service\GeminiService.class
+com\bugsprint\ai\controller\AiController.class
+com\bugsprint\ai\entity\AiLog$AiLogBuilder.class
+com\bugsprint\ai\AiServiceApplication.class

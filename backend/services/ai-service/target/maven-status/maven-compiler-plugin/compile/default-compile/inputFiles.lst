@@ -1,0 +1,5 @@
+N:\BUG TRACKING\bug-tracking-system\backend\services\ai-service\src\main\java\com\bugsprint\ai\entity\AiLog.java
+N:\BUG TRACKING\bug-tracking-system\backend\services\ai-service\src\main\java\com\bugsprint\ai\service\GeminiService.java
+N:\BUG TRACKING\bug-tracking-system\backend\services\ai-service\src\main\java\com\bugsprint\ai\AiServiceApplication.java
+N:\BUG TRACKING\bug-tracking-system\backend\services\ai-service\src\main\java\com\bugsprint\ai\controller\AiController.java
+N:\BUG TRACKING\bug-tracking-system\backend\services\ai-service\src\main\java\com\bugsprint\ai\repository\AiLogRepository.java

@@ -1,0 +1,7 @@
+N:\BUG TRACKING\bug-tracking-system\backend\services\project-service\src\main\java\com\bugsprint\project\repository\ProjectRepository.java
+N:\BUG TRACKING\bug-tracking-system\backend\services\project-service\src\main\java\com\bugsprint\project\config\DataInitializer.java
+N:\BUG TRACKING\bug-tracking-system\backend\services\project-service\src\main\java\com\bugsprint\project\entity\Project.java
+N:\BUG TRACKING\bug-tracking-system\backend\services\project-service\src\main\java\com\bugsprint\project\controller\ProjectController.java
+N:\BUG TRACKING\bug-tracking-system\backend\services\project-service\src\main\java\com\bugsprint\project\repository\ProjectMemberRepository.java
+N:\BUG TRACKING\bug-tracking-system\backend\services\project-service\src\main\java\com\bugsprint\project\ProjectServiceApplication.java
+N:\BUG TRACKING\bug-tracking-system\backend\services\project-service\src\main\java\com\bugsprint\project\entity\ProjectMember.java

@@ -1,0 +1,3 @@
+com\bugsprint\gateway\filter\JwtAuthenticationFilter.class
+com\bugsprint\gateway\ApiGatewayApplication.class
+com\bugsprint\gateway\filter\JwtAuthenticationFilter$Config.class

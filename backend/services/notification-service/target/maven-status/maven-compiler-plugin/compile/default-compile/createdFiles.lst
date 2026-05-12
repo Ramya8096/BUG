@@ -1,0 +1,5 @@
+com\bugsprint\notification\entity\Notification$NotificationBuilder.class
+com\bugsprint\notification\controller\NotificationController.class
+com\bugsprint\notification\entity\Notification.class
+com\bugsprint\notification\repository\NotificationRepository.class
+com\bugsprint\notification\NotificationServiceApplication.class

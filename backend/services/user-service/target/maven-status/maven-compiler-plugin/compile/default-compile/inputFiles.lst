@@ -1,0 +1,13 @@
+N:\BUG TRACKING\bug-tracking-system\backend\services\user-service\src\main\java\com\bugsprint\user\dto\LoginRequest.java
+N:\BUG TRACKING\bug-tracking-system\backend\services\user-service\src\main\java\com\bugsprint\user\dto\AuthResponse.java
+N:\BUG TRACKING\bug-tracking-system\backend\services\user-service\src\main\java\com\bugsprint\user\controller\UserController.java
+N:\BUG TRACKING\bug-tracking-system\backend\services\user-service\src\main\java\com\bugsprint\user\UserServiceApplication.java
+N:\BUG TRACKING\bug-tracking-system\backend\services\user-service\src\main\java\com\bugsprint\user\config\DataInitializer.java
+N:\BUG TRACKING\bug-tracking-system\backend\services\user-service\src\main\java\com\bugsprint\user\dto\RegisterRequest.java
+N:\BUG TRACKING\bug-tracking-system\backend\services\user-service\src\main\java\com\bugsprint\user\entity\User.java
+N:\BUG TRACKING\bug-tracking-system\backend\services\user-service\src\main\java\com\bugsprint\user\entity\Role.java
+N:\BUG TRACKING\bug-tracking-system\backend\services\user-service\src\main\java\com\bugsprint\user\repository\UserRepository.java
+N:\BUG TRACKING\bug-tracking-system\backend\services\user-service\src\main\java\com\bugsprint\user\dto\UserResponse.java
+N:\BUG TRACKING\bug-tracking-system\backend\services\user-service\src\main\java\com\bugsprint\user\config\SecurityConfig.java
+N:\BUG TRACKING\bug-tracking-system\backend\services\user-service\src\main\java\com\bugsprint\user\controller\AuthController.java
+N:\BUG TRACKING\bug-tracking-system\backend\services\user-service\src\main\java\com\bugsprint\user\service\AuthService.java

@@ -1,0 +1,16 @@
+com\bugsprint\user\dto\LoginRequest.class
+com\bugsprint\user\entity\User.class
+com\bugsprint\user\config\DataInitializer.class
+com\bugsprint\user\controller\AuthController.class
+com\bugsprint\user\controller\UserController.class
+com\bugsprint\user\entity\User$UserBuilder.class
+com\bugsprint\user\dto\AuthResponse$AuthResponseBuilder.class
+com\bugsprint\user\dto\AuthResponse.class
+com\bugsprint\user\dto\UserResponse$UserResponseBuilder.class
+com\bugsprint\user\service\AuthService.class
+com\bugsprint\user\UserServiceApplication.class
+com\bugsprint\user\dto\UserResponse.class
+com\bugsprint\user\config\SecurityConfig.class
+com\bugsprint\user\dto\RegisterRequest.class
+com\bugsprint\user\entity\Role.class
+com\bugsprint\user\repository\UserRepository.class
